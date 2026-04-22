@@ -25,7 +25,7 @@ O resultado é uma nova forma de construir automação:
 
 ⚡ Agendada
 ⚡ Orientada por eventos
-⚡ Baseada em microserviços
+⚡ Baseada em microsserviços
 ⚡ Potencializada por Python
 ⚡ Acelerada por Pascal
 
