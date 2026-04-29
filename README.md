@@ -5,7 +5,7 @@ O futuro da automação não é apenas código.
 É inteligência organizada, programada e executada no momento certo.
 
 O MyAI Artificial Intelligence foi criado para transformar a maneira como sistemas inteligentes são construídos.
-Uma plataforma onde tarefas são agendadas com precisão, processos são divididos em microserviços, e eventos coordenam toda a execução de forma inteligente.
+Uma plataforma onde tarefas são agendadas com precisão, processos são divididos em microsserviços, e eventos coordenam toda a execução de forma inteligente.
 
 Cada automação se torna um ecossistema vivo de processos, capaz de executar rotinas complexas exatamente na data e hora definidas.
 
@@ -19,7 +19,7 @@ Essa combinação cria uma plataforma capaz de entregar automação extrema com 
 
 Com uma abordagem NoCode e LowCode, o MyAI permite que desenvolvedores e empresas criem sistemas completos de automação sem complexidade desnecessária — mantendo sempre acesso a todo o poder do Python quando necessário.
 
-Cada tarefa pode conter múltiplos microserviços e eventos, permitindo criar arquiteturas modulares, escaláveis e inteligentes.
+Cada tarefa pode conter múltiplos microsserviços e eventos, permitindo criar arquiteturas modulares, escaláveis e inteligentes.
 
 O resultado é uma nova forma de construir automação:
 
@@ -32,3 +32,10 @@ O resultado é uma nova forma de construir automação:
 O MyAI Artificial Intelligence não é apenas um aplicativo.
 
 É uma plataforma para construir a próxima geração de automação inteligente.
+
+
+Sobre atualizações;
+  Seus dados são gravados em  Database.db e Manager.db faça backup
+
+  1 - Faça backup da pasta que está o MyAI
+  2 - Substitua todos os arquivos MENOS Database.db e Manager.db
