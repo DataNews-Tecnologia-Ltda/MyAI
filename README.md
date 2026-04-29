@@ -35,7 +35,8 @@ O MyAI Artificial Intelligence não é apenas um aplicativo.
 
 
 Sobre atualizações;
-  Seus dados são gravados em  Database.db e Manager.db faça backup
+  Seus dados são gravados em  Database.db e Manager.db faça backup  
 
   1 - Faça backup da pasta que está o MyAI
   2 - Substitua todos os arquivos MENOS Database.db e Manager.db
+  
